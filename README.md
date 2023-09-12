@@ -7,24 +7,29 @@ The application contains a main window, a new order window, a statistics window 
 
 Main Window : 
 
-![order management window](https://github.com/KaterinaGavala/Order-Management/assets/121763578/1100a876-0196-44e4-878c-363af5e4b5da)
+![order management window](https://github.com/KaterinaGavala/Order-Management/assets/121763578/7256f220-e7b5-4248-af67-d0d924a18b57)
 
-![menu file](https://github.com/KaterinaGavala/Order-Management/assets/121763578/f230eacc-1b86-4caf-9542-399ef3374345)
+![menu file](https://github.com/KaterinaGavala/Order-Management/assets/121763578/d2a2a9cd-b99e-4492-8f7c-2ea404197bcf)
+
 
 Save as :
 
-![save](https://github.com/KaterinaGavala/Order-Management/assets/121763578/8a00c657-d358-4be1-92ca-eeb8fa53092b)
+![save](https://github.com/KaterinaGavala/Order-Management/assets/121763578/946f280b-87e4-4ae6-9643-1b3a656b2f47)
+
 
 Exit :
 
-![save and exit](https://github.com/KaterinaGavala/Order-Management/assets/121763578/a0f8ae4e-a372-4e18-92f2-1d6eedbbb8b7)
+![save and exit](https://github.com/KaterinaGavala/Order-Management/assets/121763578/a7812d9f-801f-46db-9533-b451e273043f)
+
 
 New Order :
 
-![save order](https://github.com/KaterinaGavala/Order-Management/assets/121763578/5913fe34-b5e3-4630-84a4-2201bb08d890)
+![save order](https://github.com/KaterinaGavala/Order-Management/assets/121763578/546d400f-efa4-45e2-9826-3d1cdcd80624)
+
 
 Statistics Window :
 
-![statis](https://github.com/KaterinaGavala/Order-Management/assets/121763578/0bf43186-49b3-4877-ac8b-0b13059f7fb1)
+![statis](https://github.com/KaterinaGavala/Order-Management/assets/121763578/f05ab94d-c11f-4324-8228-f7a380f00f42)
+
 
 
