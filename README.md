@@ -1,7 +1,7 @@
 # Order-Management
 
 The object of the project is the development of a Java application with GUI, which will
-manage orders, that will be stored/read in files. The development of the User Interface is be done with AWT and/or
+manage orders, that will be stored/read in files. The development of the User Interface is done with AWT and/or
 Swing. 
 The application contains a main window, a new order window, a statistics window and a manufacturer's information window
 
